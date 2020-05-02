@@ -1,7 +1,7 @@
 # Blog details
 
 ---
-## :school: [B_1](https://github.com/Preetham777/DataScience/tree/master/Learnings) : Linear Regression 
+## :school: [B_1](/Learnings/my_learnings.md#learning-details) : Linear Regression 
 
 <pre>&#128214 Learnings:
 g.fkhhg
