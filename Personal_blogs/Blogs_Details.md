@@ -1,52 +1,55 @@
 # Blog details
 
-<table>
+---
+## :school: [B_1](https://github.com/Preetham777/DataScience/tree/master/Learnings) : Linear Regression 
 
-  <tr>
-    <th>Learning_id</th>
-    <th>Learnings</th>
-  </tr>
-<!-- Boiler Plate1 -->  
+<pre>&#128214 Learnings:
+g.fkhhg
+lskdhfgkdhkg
+nsdfkjbgksdgbjkdsbgs
+afjkbgakjgkjdfhg
+. rgesrtret  
+. errtrtrt
 
-<!-- Add id, link & Topic-->
-  <tr>
-    <th rowspan="3"><a href="https://github.com/Preetham777/DataScience/tree/master/Learnings"> b_1 </a></th>
-    <td align="center"> <p> <h5> &#127979 Linear Regression </h5> </p> </td>
-  </tr>
-  
-  <tr>
-    <td align="left">
-      <pre>
-<!-- Add Points Here -->
+</pre>
 
-<p>&#128214
-.  I might be misunderstanding your question, so 
-apologies if I am.
-fgcghfyjyjgj
-.  Lopic 
-.  Topic 
-  
-</p>
-      </pre>
-    </td>
-  </tr>
-  
-  <tr>
-    <td align="left">
-      <pre>
-<!-- Add Further Reading Points Here -->
+<pre>&#128218 Further Readings:
 
-<p>&#128218
-.  I might be misunderstanding your question, so 
-apologies if I am.
-fgcghfyjyjgj
-.  Lopic 
-.  Topic 
+g.fkhhg
+lskdhfgkdhkg
+nsdfkjbgksdgbjkdsbgs
+afjkbgakjgkjdfhgb
 
-</p>
-      </pre>
-    </td>
-  </tr>  
-<!-- Boiler Plate1 -->
+. rgesrtret
+. errtrtrt
 
+</pre>
+
+---
+
+## :school: [B_2](https://github.com/Preetham777/DataScience/tree/master/Learnings) : Linear Regression 
+
+<pre>&#128214 Learnings:
+g.fkhhg
+lskdhfgkdhkg
+nsdfkjbgksdgbjkdsbgs
+afjkbgakjgkjdfhg
+. rgesrtret  
+. errtrtrt
+
+</pre>
+
+<pre>&#128218 Further Readings:
+
+g.fkhhg
+lskdhfgkdhkg
+nsdfkjbgksdgbjkdsbgs
+afjkbgakjgkjdfhgb
+
+. rgesrtret
+. errtrtrt
+
+</pre>
+
+---
 
